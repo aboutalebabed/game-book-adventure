@@ -1,0 +1,40 @@
+h1{
+    color: brown;
+}
+
+p{
+    color: black;
+}
+
+body{
+    background-color: darkgrey;
+    padding-right: 20%;
+}
+
+header{
+
+    text-align: center;
+}
+
+#main1{
+    text-align: center;
+    border: 15px solid grey;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+
+nav a:link, a:visited {
+    margin: 25px;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 300px;
+}
+
+nav a:hover, a:active {
+    background-color: red;
+}
